@@ -2,7 +2,7 @@
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate with other developers.
-- 📫 How to reach me:harshit3551@gmail.com
+- 📫 How to reach me:harshitku3551@gmail.com
 
 
 <!---
